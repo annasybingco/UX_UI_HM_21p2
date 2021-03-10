@@ -2,7 +2,7 @@
     color: black;
 }
 .mainBackground{
-   background-image: url(../UX_UI_HM_21p2/ceramicHero.png); 
+   background-image: url(../UX_UI_HM_21p2/hero.png); 
    background-size: cover;
    background-repeat: no-repeat;
    height: 100vh;
@@ -11,7 +11,7 @@
    justify-content: center;
  }
  .card{
-    width: 90%;
+    margin-left: (spacer * .25) !important;
  }
 .jumboCopy{
     width: 70%;
