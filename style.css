@@ -11,8 +11,7 @@
    justify-content: center;
  }
  .card{
-     width: 100%;
-        object-fit: cover;
+    width: 90%;
  }
 .jumboCopy{
     width: 70%;
@@ -23,6 +22,10 @@
 }
 .card{
     height: 500px;
+}
+h1{
+align-items: center;
+justify-content: center;
 }
 /*==================== 
     Footer 
